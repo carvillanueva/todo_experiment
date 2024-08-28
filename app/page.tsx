@@ -1,4 +1,4 @@
-import ToDo from "@/components/ToDo";
+import ToDo from "@/pages/ToDo";
 
 export default function Home() {
   return (
